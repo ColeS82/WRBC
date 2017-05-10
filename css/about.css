@@ -2,23 +2,30 @@ body {
 	background-color: #80DB64;
 }
 
-.head {
-	height: 32vh;
+.img-responsive {
+	max-height: 30vh;
+	min-width: 50vw;
+	min-height: 25vh;
+}
+
+.jumbotron {
 	background-color: #B7F9A2;
+	margin-bottom: 0;
+	padding-top: 10px;
+	padding-bottom: 15px;
 }
 
-#logo {
-	width: 800px;
-	margin: 0 auto;
-}
-
-#logo-L {
-	padding-right: 15px;
-}
 .navbar {
 	margin-bottom: 0;
 }
 
+.btn-group {
+	padding-top: 10px;
+}
+
+.form-group {
+	width: 300px;
+}
 
 #welcome {
 	margin-bottom: -15px;
@@ -32,16 +39,14 @@ body {
 }
 
 .content {
-	padding-top: 5px;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding: 5px 10px 25px;
 	margin: 0 auto;
 	background-color: rgba(111, 103, 93, 0.72);
 	position: relative;
-	width: 550px;
-	height: 81vh;
+	max-width: 1050px;
+	max-height: 81vh;
 	color: #CDF6BF;
-	border-radius: 10%;
+	border-radius: 20px;
 	font-size: 18px;
 }
 
