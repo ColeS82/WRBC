@@ -27,3 +27,25 @@ body {
 	width: 300px;
 }
 
+img {
+	max-width: 100%;
+}
+
+.bottom {
+	color: black;
+}
+
+.events {
+	padding-top: 20px;
+}
+
+.event-pics {
+	padding-top: 20px;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: capitalize;
+}
+
+h4 {
+	font-weight: bold;
+}
