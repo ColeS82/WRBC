@@ -1,5 +1,5 @@
 body {
-	background-color: #80DB64;
+	background-color: #8b9e99;
 }
 
 .img-responsive {
@@ -9,7 +9,7 @@ body {
 }
 
 .jumbotron {
-	background-color: #B7F9A2;
+	background-color: #f4f7f6;
 	margin-bottom: 0;
 	padding-top: 10px;
 	padding-bottom: 15px;
@@ -44,8 +44,7 @@ body {
 	background-color: rgba(111, 103, 93, 0.72);
 	position: relative;
 	max-width: 1050px;
-	max-height: 81vh;
-	color: #CDF6BF;
+	color: aliceblue;
 	border-radius: 20px;
 	font-size: 18px;
 }
