@@ -37,6 +37,12 @@ img {
 
 .events {
 	padding-top: 20px;
+	font-size: 1.8em;
+}
+
+.events-list{
+	text-decoration: underline;
+	font-size: 38px;
 }
 
 .event-pics {
