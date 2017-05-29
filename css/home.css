@@ -48,9 +48,8 @@ img {
 	font-size: 1.8em;
 }
 
-.fb-page + .affix{
-	top: 20px;
-	width: 100%
+.fb-page {
+	position: absolute;
 }
 
 .events-list{
