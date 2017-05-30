@@ -53,11 +53,6 @@ img {
 	font-size: 38px;
 }
 
-.feed {
-	border-left: 8px inset SlateGrey;
-	border-right: 8px outset SlateGrey;
-}
-
 .event-pics {
 	padding-top: 20px;
 	text-align: center;
